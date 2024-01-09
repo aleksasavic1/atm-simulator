@@ -56,3 +56,5 @@ if __name__ == "__main__":
             continue
     else:
         print("You have no more money on the card.")
+    input("Press Enter to exit..")
+    exit()
